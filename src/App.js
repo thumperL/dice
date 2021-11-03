@@ -1,11 +1,11 @@
 import './App.css';
-import Die from './Die';
+import RollDie from './RollDie';
+
 
 function App() {
   return (
     <div className="App">
-      <Die face='two' />
-      <Die face='six' />
+      <RollDie />
     </div>
   );
 }

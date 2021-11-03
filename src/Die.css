@@ -1,9 +1,10 @@
 .Die {
   display: inline-block;
-  width: 30px;
+  width: 5rem;
+  height: auto;
   padding: 5px;
 }
 
 .Die i {
-  font-size: 30px;
+  font-size: 5rem;
 }
