@@ -1,0 +1,9 @@
+.Die {
+  display: inline-block;
+  width: 30px;
+  padding: 5px;
+}
+
+.Die i {
+  font-size: 30px;
+}
